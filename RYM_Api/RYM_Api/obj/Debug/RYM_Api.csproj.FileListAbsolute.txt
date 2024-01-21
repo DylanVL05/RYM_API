@@ -1,0 +1,13 @@
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.csproj.AssemblyReference.cache
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.Form1.resources
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.Properties.Resources.resources
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.csproj.GenerateResource.cache
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.csproj.CoreCompileInputs.cache
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\bin\Debug\RYM_Api.exe.config
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\bin\Debug\RYM_Api.exe
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\bin\Debug\RYM_Api.pdb
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.csproj.CopyComplete
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.exe
+C:\Users\andro\source\repos\RYM_Api\RYM_Api\obj\Debug\RYM_Api.pdb
